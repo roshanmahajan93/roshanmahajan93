@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roshan
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Kotlin|Flutter
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me https://in.linkedin.com/in/roshanmahajan93 on Linkedin
 
 
